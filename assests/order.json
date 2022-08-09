@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "CompName": "Amul",
+    "price": "100",
+    "currency": "Rupees",
+    "deliveryStatus": "pending",
+    "capacity": "100",
+    "from": "Gujarat",
+    "to": "Mumbai",
+    "orderId": "abc",
+    "date": "3-3-2022"
+  },
+  {
+    "id": 5,
+    "CompName": "Amul",
+    "price": "100",
+    "currency": "Rupees",
+    "deliveryStatus": "pending",
+    "capacity": "100",
+    "from": "Gujarat",
+    "to": "Mumbai",
+    "orderId": "abc",
+    "date": "3-3-2022"
+  },
+  {
+    "id": 2,
+    "CompName": "Amul",
+    "price": "100",
+    "currency": "Rupees",
+    "deliveryStatus": "pending",
+    "capacity": "100",
+    "from": "Gujarat",
+    "to": "Mumbai",
+    "orderId": "abc",
+    "date": "3-4-2022"
+  },
+  {
+    "id": 3,
+    "CompName": "Amul",
+    "price": "100",
+    "currency": "Rupees",
+    "deliveryStatus": "pending",
+    "capacity": "100",
+    "from": "Gujarat",
+    "to": "Mumbai",
+    "orderId": "abc",
+    "date": "3-3-2023"
+  }
+]
